@@ -1,0 +1,4 @@
+- [ ] Go through Concepts folders and tag notes with tags in order to...
+- [ ] Remove all Concepts sub-folders and keep all notes in the top level of that folder 
+- [ ] Tidy up tags, add tags to [[Tags]]
+- [ ] Replace Book tags with Concept Tags

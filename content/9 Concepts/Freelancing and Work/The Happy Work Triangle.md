@@ -1,0 +1,1 @@
+![[The Work Happiness Triangle.jpeg|600]]
